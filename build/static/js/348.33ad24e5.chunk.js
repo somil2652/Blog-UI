@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkblogs_ui=self.webpackChunkblogs_ui||[]).push([[348],{6348:(t,e,s)=>{s.r(e),s.d(e,{default:()=>n});s(2791);var a=s(5127),o=s(184);const n=()=>(0,o.jsx)(a.Z,{children:(0,o.jsx)("img",{src:"https://static.vecteezy.com/system/resources/thumbnails/008/255/803/small/page-not-found-error-404-system-updates-uploading-computing-operation-installation-programs-system-maintenance-a-hand-drawn-layout-template-of-a-broken-robot-illustration-vector.jpg",height:900,alt:"image"})})}}]);
+//# sourceMappingURL=348.33ad24e5.chunk.js.map

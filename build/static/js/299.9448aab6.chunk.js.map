@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/299.9448aab6.chunk.js","mappings":"wJACA,MAIA,EAJeA,IACNC,EAAAA,EAAAA,KAACC,EAAAA,EAAS,IAAKF,G","sources":["component/Space.jsx"],"sourcesContent":["import { Space as SpaceComp } from \"antd\";\nconst Space = (props) => {\n  return <SpaceComp {...props} />;\n};\n\nexport default Space;\n"],"names":["props","_jsx","SpaceComp"],"sourceRoot":""}

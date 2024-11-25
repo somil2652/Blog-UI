@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkblogs_ui=self.webpackChunkblogs_ui||[]).push([[103],{2103:(e,s,t)=>{t.r(s),t.d(s,{default:()=>l});var u=t(2791),a=t(7689),c=t(184);const l=()=>{const e=localStorage.getItem("authToken"),[s,t]=(0,u.useState)(!1),l=(0,a.s0)();return(0,u.useEffect)((()=>{e?t(!0):l("/")}),[e,l]),s?(0,c.jsx)(a.j3,{}):l("/")}}}]);
+//# sourceMappingURL=103.abac6b74.chunk.js.map
